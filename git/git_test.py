@@ -1,5 +1,2 @@
-print "hello git";
-
-print"t";
-
-print'badr';
+print "hello gitHun";
+ 
